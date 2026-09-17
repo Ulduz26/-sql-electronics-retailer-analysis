@@ -1,16 +1,16 @@
 # Global Electronics Retailer — SQL Analysis Project
 
-An end-to-end SQL Server analysis of a global electronics retailer's sales, products, customers, and store data — from raw CSV files to a documented set of business insights.
+A global electronics retailer's sales, products, customers, and store data analysis using SQL Server — from raw CSV files to a documented set of business insights.
 
-**Dataset:** [Global Electronics Retailer](https://www.kaggle.com/datasets/bhavikjikadara/global-electronics-retailer) (Maven Analytics) — a star-schema dataset with a Sales fact table and Customers, Products, Stores, and Exchange Rates dimension tables (~63K sales records, 2,517 products, 15K+ customers, 67 stores across 8 countries).
+**Dataset:** [Global Electronics Retailer](https://www.kaggle.com/datasets/bhavikjikadara/global-electronics-retailer) — a star-schema dataset with a Sales fact table and Customers, Products, Stores, and Exchange Rates dimension tables (~63K sales records, 2,517 products, 15K+ customers, 67 stores across 8 countries).
 
 **Tools:** Microsoft SQL Server, T-SQL — joins, CTEs, window functions (`RANK`, `LAG`, running totals), `PIVOT`, views, data cleaning with `TRY_CAST`/`REPLACE`.
-
-This project uses SQL to analyze **~63,000 sales records**, **2,500+ products**, and **15,000+ customers** across **67 stores in 8 countries**, to identify revenue and profit trends, product and brand profitability, customer purchasing patterns, and operational performance for a global electronics retailer — entirely through raw SQL queries, with no external BI tool.
 
 ---
 
 ## TL;DR
+
+This project uses SQL to analyze **~63,000 sales records**, **2,500+ products**, and **15,000+ customers** across **67 stores in 8 countries**, to identify revenue and profit trends, product and brand profitability, customer purchasing patterns, and operational performance for a global electronics retailer — entirely through raw SQL queries, with no external BI tool.
 
 - Revenue grew steadily 2016–2019, then dropped in 2020. Revenue and profit move together, so the swings come from **sales volume**, not margin changes.
 - **27.7% of products generate 80% of revenue** — nearly half the catalog barely moves the needle.
