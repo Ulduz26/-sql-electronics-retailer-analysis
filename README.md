@@ -163,15 +163,14 @@ Ranking products by revenue and computing a running cumulative share shows the s
 
 ---
 
-## Conclusion: Strengths, Weaknesses & Recommendations
+## Insights
 
-**Strengths**
 - Strong, consistent revenue growth from 2016–2019 (+18% to +75% year-over-year), with profit growing in lockstep — margins held steady even as the business scaled.
 - Profit margin is remarkably stable across every country (44.6%–49.9%), suggesting disciplined, consistent pricing regardless of market.
 - The Online channel has steadily and continuously improved delivery time (7 days → 3 days), with no year of regression — a sign of real operational investment paying off.
 - A small set of core categories (Computers, Cell phones) and a concentrated group of "A" products (27.7% of the catalog) reliably drive the large majority of revenue.
 
-**Weaknesses**
+
 - **TV and Video** underperforms on every metric simultaneously — lowest revenue, lowest unit volume, and lowest margin (13%) — suggesting a structural problem (pricing, sourcing cost, or weak demand) rather than a one-off dip.
 - **Nearly half the product catalog (Category C, 45.4% of products) generates only ~5% of revenue** — this is a lot of inventory, shelf space, and operational overhead for very little return.
 - Revenue is heavily concentrated in the **United States** (~42% of total revenue) — a geographic dependency that adds risk if that single market softens.
