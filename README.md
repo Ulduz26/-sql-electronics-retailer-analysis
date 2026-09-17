@@ -69,6 +69,8 @@ Revenue grew strongly from 2016 through 2019 (+18% to +75% year-over-year), then
 | 2021* | $852,421 | $421,596 | -88.5% | -88.2% |
 
 *\*2021 covers Jan–Feb only.*
+<img width="991" height="541" alt="image" src="https://github.com/user-attachments/assets/97790a2a-d83e-47a8-bfcf-e3628bf7e660" />
+
 
 ### 2. Profit Margin by Category & Brand
 
