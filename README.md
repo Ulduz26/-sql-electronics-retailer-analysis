@@ -55,7 +55,6 @@ During import, roughly 350 rows in `Products` (~14% of the table) had corrupted 
 
 Revenue grew strongly from 2016 through 2019 (+18% to +75% year-over-year), then declined 50% in 2020. Revenue and profit growth track closely together every year, meaning performance swings came from sales volume, not margin changes. *(2021 shows only Jan–Feb data — not a real annual decline.)*
 
-![Revenue and Profit Trend](charts/01_revenue_profit_trend.png)
 
 - **December** appears twice in the top 5 highest-revenue months (2018, 2019) — a holiday seasonality effect.
 - **April** was the lowest-revenue month in every single year from 2016–2020 — a strong, consistent seasonal dip.
@@ -75,7 +74,6 @@ Revenue grew strongly from 2016 through 2019 (+18% to +75% year-over-year), then
 
 Higher sales volume doesn't guarantee the best margin. **Computers** is the largest category by both revenue ($16.1M) and unit volume (44,151), though its margin (50.1%) isn't the highest. **Music, Movies and Audio Books** has the best margin (61.0%) but operates at a much smaller scale. **TV and Video** is the weakest performer across all three metrics — lowest revenue ($2.75M), lowest units (11,236), lowest margin (13.0%) — a strong candidate for pricing or assortment review.
 
-![Profit Margin by Category](charts/02_category_profit_margin.png)
 
 | Category | Revenue | Profit | Margin | Units Sold |
 |---|---|---|---|---|
@@ -113,7 +111,6 @@ The top 10 customers generated between $26.1K and $36.7K in total revenue, but t
 
 The United States leads by a wide margin with **$18.4M** in revenue. The **Online** channel ranks second overall with **$8.9M**, outperforming every physical country except the US.
 
-![Revenue by Country](charts/03_country_revenue.png)
 
 Despite large differences in revenue scale, profit margins are relatively consistent across locations — ranging from 44.6% to 49.9% (a ~5.3-point spread). This is much narrower than the variation seen across product categories (13%–61%) or brands (20%–59%), suggesting geography is far less associated with profitability than product or brand mix is.
 
@@ -127,7 +124,6 @@ Average Online delivery time improved from **7 days in 2016 to 3 days by Jan–F
 
 Ranking products by revenue and computing a running cumulative share shows the same imbalance the Pareto principle predicts, even if the exact split isn't a textbook 80/20:
 
-![ABC Analysis](charts/04_abc_analysis.png)
 
 | Category | Products | % of Catalog | Revenue | % of Revenue |
 |---|---|---|---|---|
